@@ -44,7 +44,7 @@ polybar-msg hook marks 2 # on
 
 I recommend adding these commands as bindings in your i3 config.
 
-# i3 configuration
+### i3 configuration
 
 You could take advantage of the IPC version of the module and add modes specifically for marking/switching to windows, and only display marks when on these specific modes like so:
 
