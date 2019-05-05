@@ -6,6 +6,8 @@ Polybar module to display i3 marks.
 
 Requires jq.
 
+Enable inter-process comunication for polybar: `enable-ipc = true`
+
 You can specify marks to ignore by adding them in the script.
 
 Add the script to your $PATH, or list its full path in the `exec` field as shown below.
